@@ -55,16 +55,16 @@ Sou um **Engenheiro de Software Sênior** apaixonado por desenvolvimento mobile 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=macielrsf&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macielrsf&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=macielrsf&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,issues"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macielrsf&layout=compact&langs_count=7&theme=radical&hide=html,css"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=macielrsf&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=macielrsf&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=macielrsf&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=macielrsf&theme=radical&hide_border=true&area=true" />
 </div>
 
 ---
