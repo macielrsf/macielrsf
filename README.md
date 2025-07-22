@@ -1,12 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Maciel+%F0%9F%91%8B;Engenheiro+de+Software+S%C3%AAnior;Mobile+%26+FullStack+Developer;React+Native+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Maciel+%F0%9F%91%8B;Hello!+I'm+Maciel+%F0%9F%91%8B;Engenheiro+de+Software+S%C3%AAnior;Senior+Software+Engineer;Mobile+%26+FullStack+Developer;React+Native+Specialist" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=header"/>
 </div>
 
-## 👨‍💻 Sobre Mim
+<div align="center">
+  <a href="#português">🇧🇷 Português</a> | <a href="#english">🇺🇸 English</a>
+</div>
+
+---
+
+## 🇧🇷 Português
+
+### 👨‍💻 Sobre Mim
 
 Sou um **Engenheiro de Software Sênior** apaixonado por desenvolvimento mobile e fullstack, com mais de **8 anos de experiência** criando soluções escaláveis. Atualmente lidero o desenvolvimento de aplicativos React Native para mais de **450 provedores de internet** em todo o Brasil na Hubsoft.
 
@@ -18,7 +26,21 @@ Sou um **Engenheiro de Software Sênior** apaixonado por desenvolvimento mobile 
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🇺🇸 English
+
+### 👨‍💻 About Me
+
+I'm a **Senior Software Engineer** passionate about mobile and fullstack development, with over **8 years of experience** creating scalable solutions. Currently leading React Native app development for more than **450 internet providers** across Brazil at Hubsoft.
+
+### 🎯 Main Focus
+- **React Native** - Native mobile development
+- **Clean Architecture** - Organized and scalable code
+- **CI/CD** - Automation and continuous delivery
+- **Performance** - Optimization and quality
+
+---
+
+## 🚀 Technologies & Ferramentas | Technologies & Tools
 
 ### 📱 Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -52,7 +74,7 @@ Sou um **Engenheiro de Software Sênior** apaixonado por desenvolvimento mobile 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics | Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=macielrsf&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,issues"/>
@@ -69,15 +91,16 @@ Sou um **Engenheiro de Software Sênior** apaixonado por desenvolvimento mobile 
 
 ---
 
-## 🏆 Projetos em Destaque
+## 🏆 Featured Projects | Projetos em Destaque
 
-### 📱 Apps Mobile (React Native)
+### 📱 Mobile Apps (React Native) | Apps Mobile (React Native)
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">App Hubsoft</h3>
+      <h3 align="center">Hubsoft App</h3>
       <p align="center">
-        App de campo para técnicos de provedores de internet
+        <strong>🇧🇷</strong> App de campo para técnicos de provedores de internet<br/>
+        <strong>🇺🇸</strong> Field app for internet provider technicians
         <br/>
         <a href="https://play.google.com/store/apps/details?id=com.hubsoft_app" target="_blank">
           <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
@@ -88,9 +111,10 @@ Sou um **Engenheiro de Software Sênior** apaixonado por desenvolvimento mobile 
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">App All Rede</h3>
+      <h3 align="center">All Rede App</h3>
       <p align="center">
-        App white-label para clientes All Rede
+        <strong>🇧🇷</strong> App white-label para clientes All Rede<br/>
+        <strong>🇺🇸</strong> White-label app for All Rede customers
         <br/>
         <a href="https://play.google.com/store/apps/details?id=com.hubsoft_client_app.allrede" target="_blank">
           <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
@@ -103,13 +127,14 @@ Sou um **Engenheiro de Software Sênior** apaixonado por desenvolvimento mobile 
   </tr>
 </table>
 
-### 💻 Projetos Open Source
+### 💻 Open Source Projects | Projetos Open Source
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">React Native GPT</h3>
       <p align="center">
-        App de chat com integração ChatGPT usando SSE
+        <strong>🇧🇷</strong> App de chat com integração ChatGPT usando SSE<br/>
+        <strong>🇺🇸</strong> Chat app with ChatGPT integration using SSE
         <br/>
         <a href="https://github.com/macielrsf/react-native-gpt" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -119,7 +144,8 @@ Sou um **Engenheiro de Software Sênior** apaixonado por desenvolvimento mobile 
     <td width="50%">
       <h3 align="center">Portfolio</h3>
       <p align="center">
-        Meu portfolio desenvolvido com React e TypeScript
+        <strong>🇧🇷</strong> Meu portfolio desenvolvido com React e TypeScript<br/>
+        <strong>🇺🇸</strong> My portfolio built with React and TypeScript
         <br/>
         <a href="https://github.com/macielrsf/portfolio" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -131,34 +157,36 @@ Sou um **Engenheiro de Software Sênior** apaixonado por desenvolvimento mobile 
 
 ---
 
-## 🎯 Habilidades Técnicas
+## 🎯 Technical Skills | Habilidades Técnicas
 
-### 🏗️ Arquitetura & Padrões
-- **Microsserviços** - Arquitetura distribuída e escalável
-- **Arquitetura Limpa** - Separação de responsabilidades
-- **SOLID** - Princípios de design orientado a objetos
-- **MVC** - Padrão arquitetural
-- **TDD** - Desenvolvimento orientado a testes
+### 🏗️ Architecture & Patterns | Arquitetura & Padrões
+- **🇧🇷 Microsserviços** - Arquitetura distribuída e escalável | **🇺🇸 Microservices** - Distributed and scalable architecture
+- **🇧🇷 Arquitetura Limpa** - Separação de responsabilidades | **🇺🇸 Clean Architecture** - Separation of concerns
+- **🇧🇷 SOLID** - Princípios de design orientado a objetos | **🇺🇸 SOLID** - Object-oriented design principles
+- **🇧🇷 MVC** - Padrão arquitetural | **🇺🇸 MVC** - Architectural pattern
+- **🇧🇷 TDD** - Desenvolvimento orientado a testes | **🇺🇸 TDD** - Test-driven development
 
-### 🔧 Desenvolvimento
-- **API REST** - APIs RESTful bem estruturadas
-- **WebSockets** - Comunicação em tempo real
-- **CI/CD** - Integração e entrega contínua
-- **Docker** - Containerização de aplicações
-- **Git** - Controle de versão
+### 🔧 Development | Desenvolvimento
+- **🇧🇷 API REST** - APIs RESTful bem estruturadas | **🇺🇸 REST API** - Well-structured RESTful APIs
+- **🇧🇷 WebSockets** - Comunicação em tempo real | **🇺🇸 WebSockets** - Real-time communication
+- **🇧🇷 CI/CD** - Integração e entrega contínua | **🇺🇸 CI/CD** - Continuous integration and delivery
+- **🇧🇷 Docker** - Containerização de aplicações | **🇺🇸 Docker** - Application containerization
+- **🇧🇷 Git** - Controle de versão | **🇺🇸 Git** - Version control
 
 ### 🎨 UI/UX
-- **Responsividade** - Design adaptativo
-- **UI/UX** - Experiência do usuário
-- **Figma** - Design e prototipagem
+- **🇧🇷 Responsividade** - Design adaptativo | **🇺🇸 Responsiveness** - Adaptive design
+- **🇧🇷 UI/UX** - Experiência do usuário | **🇺🇸 UI/UX** - User experience
+- **🇧🇷 Figma** - Design e prototipagem | **🇺🇸 Figma** - Design and prototyping
 
 ---
 
-## 📈 Experiência Profissional
+## 📈 Professional Experience | Experiência Profissional
 
 ### 🏢 Hubsoft Brasil LTDA
-**Engenheiro de Software Sênior | Mobile & FullStack** *(2017 - Presente)*
+**🇧🇷 Engenheiro de Software Sênior | Mobile & FullStack** *(2017 - Presente)*<br/>
+**🇺🇸 Senior Software Engineer | Mobile & FullStack** *(2017 - Present)*
 
+**🇧🇷 Responsabilidades:**
 - Lidero o desenvolvimento de soluções mobile escaláveis usando React Native
 - Gerencio todo o ciclo de vida dos aplicativos com foco em performance
 - Responsável pela evolução de dois produtos principais:
@@ -166,19 +194,27 @@ Sou um **Engenheiro de Software Sênior** apaixonado por desenvolvimento mobile 
   - App de campo para técnicos (ordens de serviço)
 - Automação CI/CD e otimização de processos
 
----
-
-## 🌟 Principais Conquistas
-
-- ✅ **450+ provedores** atendidos com soluções mobile
-- ✅ **8+ anos** de experiência em desenvolvimento
-- ✅ **Apps disponíveis** nas principais lojas (Google Play & App Store)
-- ✅ **Arquitetura escalável** para milhares de usuários
-- ✅ **Automação completa** de CI/CD
+**🇺🇸 Responsibilities:**
+- Lead scalable mobile solution development using React Native
+- Manage the entire app lifecycle with focus on performance
+- Responsible for evolving two main products:
+  - White-label app for end customers
+  - Field app for technicians (service orders)
+- CI/CD automation and process optimization
 
 ---
 
-## 📞 Vamos Conectar!
+## 🌟 Key Achievements | Principais Conquistas
+
+- ✅ **🇧🇷 450+ provedores** atendidos com soluções mobile | **🇺🇸 450+ providers** served with mobile solutions
+- ✅ **🇧🇷 8+ anos** de experiência em desenvolvimento | **🇺🇸 8+ years** of development experience
+- ✅ **🇧🇷 Apps disponíveis** nas principais lojas (Google Play & App Store) | **🇺🇸 Apps available** in major stores (Google Play & App Store)
+- ✅ **🇧🇷 Arquitetura escalável** para milhares de usuários | **🇺🇸 Scalable architecture** for thousands of users
+- ✅ **🇧🇷 Automação completa** de CI/CD | **🇺🇸 Complete automation** of CI/CD
+
+---
+
+## 📞 Let's Connect! | Vamos Conectar!
 
 <div align="center">
   <a href="https://linkedin.com/in/macielrsf" target="_blank">
@@ -200,4 +236,4 @@ Sou um **Engenheiro de Software Sênior** apaixonado por desenvolvimento mobile 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=macielrsf&style=flat-square&color=00D4FF" alt="Profile Views" />
-</div> 
+</div>
