@@ -6,12 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=header"/>
 </div>
 
-<div align="center">
-  <a href="#português">🇧🇷 Português</a> | <a href="#english">🇺🇸 English</a>
-</div>
-
----
-
 ## 🇧🇷 Português
 
 ### 👨‍💻 Sobre Mim
