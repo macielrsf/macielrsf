@@ -134,30 +134,30 @@ I'm a **Senior Software Engineer** passionate about mobile and fullstack develop
 ## 🎯 Technical Skills
 
 ### 🏗️ Architecture & Patterns
-- ** Microservices** - Distributed and scalable architecture
-- ** Clean Architecture** - Separation of concerns
-- ** SOLID** - Object-oriented design principles
-- ** MVC** - Architectural pattern
-- ** TDD** - Test-driven development
+- **Microservices** - Distributed and scalable architecture
+- **Clean Architecture** - Separation of concerns
+- **SOLID** - Object-oriented design principles
+- **MVC** - Architectural pattern
+- **TDD** - Test-driven development
 
 ### 🔧 Development
-- ** REST API** - Well-structured RESTful APIs
-- ** WebSockets** - Real-time communication
-- ** CI/CD** - Continuous integration and delivery
-- ** Docker** - Application containerization
-- ** Git** - Version control
+- **REST API** - Well-structured RESTful APIs
+- **WebSockets** - Real-time communication
+- **CI/CD** - Continuous integration and delivery
+- **Docker** - Application containerization
+- **Git** - Version control
 
 ### 🎨 UI/UX
-- ** Responsiveness** - Adaptive design
-- ** UI/UX** - User experience
-- ** Figma** - Design and prototyping
+- **Responsiveness** - Adaptive design
+- **UI/UX** - User experience
+- **Figma** - Design and prototyping
 
 ---
 
 ## 📈 Professional Experience | Experiência Profissional
 
 ### 🏢 Hubsoft Brasil LTDA
-** Senior Software Engineer | Mobile & FullStack** *(2017 - Present)*
+**Senior Software Engineer | Mobile & FullStack** *(2017 - Present)*
 
 **Responsibilities:**
 - Lead scalable mobile solution development using React Native
