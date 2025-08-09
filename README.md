@@ -154,7 +154,7 @@ I'm a **Senior Software Engineer** passionate about mobile and fullstack develop
 
 ---
 
-## 📈 Professional Experience | Experiência Profissional
+## 📈 Professional Experience
 
 ### 🏢 Hubsoft Brasil LTDA
 **Senior Software Engineer | Mobile & FullStack** *(2017 - Present)*
