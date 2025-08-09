@@ -171,11 +171,11 @@ I'm a **Senior Software Engineer** passionate about mobile and fullstack develop
 
 ## 🌟 Key Achievements
 
-- ✅  450+ providers** served with mobile solutions
-- ✅  8+ years** of development experience
-- ✅  Apps available** in major stores (Google Play & App Store)
-- ✅  Scalable architecture** for thousands of users
-- ✅  Complete automation** of CI/CD
+- ✅  **450+ providers** served with mobile solutions
+- ✅  **8+ years** of development experience
+- ✅  **Apps available** in major stores (Google Play & App Store)
+- ✅  **Scalable architecture** for thousands of users
+- ✅  **Complete automation** of CI/CD
 
 ---
 
